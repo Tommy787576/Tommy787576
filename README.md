@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Shih Ping Lin
+- 👀 I’m interested in Machine Learning, Data Science, Signal Processing, and Web Programming
+- 🌱 I’m currently learning Deep Learning
+- 📫 My email is tommy787576@gmail.com
+
+[![Tommy787576's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy787576](https://github.com/anuraghazra/github-readme-stats)
