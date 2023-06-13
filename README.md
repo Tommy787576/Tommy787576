@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning
 - 📫 My email is tommy787576@gmail.com
 
-[![Tommy787576's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy787576&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Tommy787576's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy787576&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
